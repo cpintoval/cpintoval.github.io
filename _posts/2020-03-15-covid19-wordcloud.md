@@ -55,10 +55,10 @@ As mentioned before, the majority of the data analysis performed to date on the 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the first twitter analysis I’ve seen on <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <br><br>It strikes me this is bc the focus has been on analyzing case stats. <br><br> 🦸🏻‍♀️ 🦸‍♂️ And this is bc of the <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a> heroes who have made the case data so available and accessible. <a href="https://t.co/MHE9JguCbd">https://t.co/MHE9JguCbd</a></p>&mdash; Laura Ellis (@LittleMissData) <a href="https://twitter.com/LittleMissData/status/1239347783569739778?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here's a list of the datasets and resources shared in the thread above, if you're interested in doing further analysis:
-* nCovid2019 R package by [@guangchuangyu](https://twitter.com/guangchuangyu): https://github.com/GuangchuangYu/nCov2019
-* Coronavirus R package by [@ramikrispin](https://twitter.com/ramikrispin): https://github.com/RamiKrispin/coronavirus
-* Covid Python package by Johns Hopkins University: https://pypi.org/project/covid/
-* Covidify Python package by [Aaron Ward](https://github.com/AaronWard): https://github.com/AaronWard/covidify
+* [nCovid2019 R package](https://github.com/GuangchuangYu/nCov2019) by [@guangchuangyu](https://twitter.com/guangchuangyu)
+* [Coronavirus R package](https://github.com/RamiKrispin/coronavirus) by [@ramikrispin](https://twitter.com/ramikrispin)
+* [Covid Python package](https://pypi.org/project/covid/) by Johns Hopkins University
+* [Covidify Python package](https://github.com/AaronWard/covidify) by [Aaron Ward](https://github.com/AaronWard)
 
 And a lot more resources being shared on Twitter with the hashtag [#OpenData](https://twitter.com/hashtag/OpenData).
 
