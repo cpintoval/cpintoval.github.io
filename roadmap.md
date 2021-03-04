@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roadmap 🚀
-description: Check out what's new and what's coming on this website
+description: Check out what's new and what's coming.
 background: 
 ---
 
