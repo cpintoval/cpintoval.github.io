@@ -85,3 +85,8 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+.card-small {
+  border-radius: $border-radius-md;
+  box-shadow: $box-shadow-sm;
+}
