@@ -31,3 +31,22 @@ $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
+
+// Border Radius Variables (Tailwind)
+$border-radius-sm: .125rem;
+$border-radius-md: .375rem;
+$border-radius-lg: .5rem;
+$border-radius-xl: .75rem;
+$border-radius-2xl: 1rem;
+
+
+// Box Shadow Variables (Material Design)
+$box-shadow-sm: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+$box-shadow-md: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+$box-shadow-lg: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+$box-shadow-xl: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+$box-shadow-2xl: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+
+// Transitions (Material Design)
+$transition-all-cubic: all 0.3s cubic-bezier(.25,.8,.25,1);
+
