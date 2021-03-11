@@ -14,3 +14,9 @@ I use this as a my own instruction manual, but feel free to use it as well.
 3. Run `bundle install` to install all dependencies.
 4. Build the site by running `bundle exec jekyll serve`. This command will start your local server on [localhost:4000](http://localhost:4000/) by default, but you can change parameters like the Port by adding arguments to this command. Run `jekyll serve --help` for more information.
 5. Make, add, commit, and push your changes!
+
+## Syntax Highlighting
+This site uses Kramdown Rouge as the syntax highlighter. I'm using a custom version of the base16.solarized theme.
+
+- For more information on installation and theme changes, here's a [quick tutorial](https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html).
+- To test other Rouge themes, here's a [neat website](https://spsarolkar.github.io/rouge-theme-preview/) to test them out.
