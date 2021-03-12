@@ -2,7 +2,7 @@
 
 |Top Language|Language Count|W3C Validation|Code Size|Lines of Code|
 |:----:       |:----:|:----:|:----:|:----:|
-|[<img src="https://img.shields.io/github/languages/top/cpintoval/cpintoval.github.io">](<LINK>)|[<img src="https://img.shields.io/github/languages/count/cpintoval/cpintoval.github.io?color=orange">](<LINK>)|[<img src="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fcpintoval.github.io%2F">](<LINK>)|[<img src="https://img.shields.io/github/languages/code-size/cpintoval/cpintoval.github.io?color=lightgray">](<LINK>)|[<img src="https://img.shields.io/tokei/lines/github/cpintoval/cpintoval.github.io">](<LINK>)|
+|<img src="https://img.shields.io/github/languages/top/cpintoval/cpintoval.github.io">|<img src="https://img.shields.io/github/languages/count/cpintoval/cpintoval.github.io?color=orange">|<img src="https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fcpintoval.github.io%2F">|<img src="https://img.shields.io/github/languages/code-size/cpintoval/cpintoval.github.io?color=lightgray">|<img src="https://img.shields.io/tokei/lines/github/cpintoval/cpintoval.github.io">|
 
 ## Overview
 Code that powers my personal website, which you can visit by going to [cpintoval.github.io](https://cpintoval.github.io/).
