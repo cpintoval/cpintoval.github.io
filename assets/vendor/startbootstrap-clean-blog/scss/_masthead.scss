@@ -3,11 +3,13 @@ header.masthead {
   // TIP: Background images are set within the HTML using inline CSS!
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-color: $gray-600;
+  background-color: $gray-100;
+  border-bottom: 1px solid $gray-100;
   background-attachment: scroll;
   position: relative;
   @include background-cover;
   .overlay {
+    display: none;
     position: absolute;
     top: 0;
     left: 0;
@@ -20,7 +22,7 @@ header.masthead {
   .post-heading,
   .site-heading {
     padding: 200px 0 150px;
-    color: white;
+    color: $gray-900;
     @media only screen and (min-width: 768px) {
       padding: 200px 0;
     }
@@ -67,7 +69,7 @@ header.masthead {
       font-style: italic;
       @include serif-font;
       a {
-        color: $white;
+        color: $primary;
       }
     }
     @media only screen and (min-width: 768px) {
